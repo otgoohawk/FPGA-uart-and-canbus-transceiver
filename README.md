@@ -1,3 +1,4 @@
+[![Made with Verilog](https://img.shields.io/badge/Made%20with-Verilog-1f425f.svg)](https://verilog.org/)
 # FPGA-uart-and-canbus-transceiver
 FPGA uart and canbus transceiver
 
