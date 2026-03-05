@@ -48,4 +48,8 @@ The [RTL](./RTL) folder contains 3 design source files, and the functions of eac
 
 <img width="750" height="299" alt="image" src="https://github.com/user-attachments/assets/8fb82aa7-c96c-4258-9278-f47b8e7b6bfd" />
 
+## Board Details
+This project is designed for the **Zybo Z7-20** FPGA boards from Digilent.
+- [Zybo Z7-20 Reference](https://digilent.com/reference/programmable-logic/zybo-z7/hardware)
+
 　
